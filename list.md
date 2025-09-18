@@ -22,7 +22,7 @@ print(x)
 print("min : ",min(x))
 print("max : ",max(x))
 ```
-# Output
+# Output (sample)
 ```
 original array :  [1, 2, 3, 5, 9]
 append :  [1, 2, 3, 5, 9, 28]
